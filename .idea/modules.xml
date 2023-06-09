@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/15-Puzzle.iml" filepath="$PROJECT_DIR$/.idea/modules/15-Puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Games/Task/15-Puzzle.Games-Task.iml" filepath="$PROJECT_DIR$/.idea/modules/Games/Task/15-Puzzle.Games-Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Games/Task/15-Puzzle.Games-Task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Games/Task/15-Puzzle.Games-Task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Games/Task/15-Puzzle.Games-Task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Games/Task/15-Puzzle.Games-Task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/15-Puzzle.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/15-Puzzle.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/15-Puzzle.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/15-Puzzle.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/15-Puzzle.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/15-Puzzle.util.test.iml" />
+    </modules>
+  </component>
+</project>
